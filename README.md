@@ -1,5 +1,5 @@
 
-# Special Version for Penrose and NWHEAT
+# Special Version for  NWHEAT
 PHP oAuth hosted on HeroKu
 
 # netlify-cms-oauth-provider-php
